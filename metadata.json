@@ -1,0 +1,5 @@
+{
+  "name": "Hierarchical JSON Editor",
+  "description": "A web application to visually edit and manage hierarchical JSON configurations. It allows users to add, delete, and modify menu items and content, automatically updating both the main content file and the structural flow file.",
+  "requestFramePermissions": []
+}
